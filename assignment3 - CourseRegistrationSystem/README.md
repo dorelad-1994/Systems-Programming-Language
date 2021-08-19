@@ -1,0 +1,1 @@
+The program is a registration system at BGU University, focused on communication between tasks. The communication between the server and the clients will be performed by two protocols: Thread-Per-Client (TPC) and Reactor servers.

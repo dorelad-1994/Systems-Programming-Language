@@ -1,0 +1,1 @@
+I got a mission to flatten the curve, by writing a C++ program that simulates a contact tracing system and Beat the Covid
